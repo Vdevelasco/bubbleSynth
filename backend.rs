@@ -1,0 +1,9 @@
+fn main()
+{
+    let mut age = 55;
+    let age = 1234; 
+    let age = 1234;
+    
+    println!("{}", age);
+
+}
